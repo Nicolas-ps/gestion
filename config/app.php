@@ -54,7 +54,7 @@ return [
 
     'url' => env('APP_URL', 'https://gestion-nicolas.herokuapp.com/'),
 
-    'asset_url' => env('ASSET_URL', null),
+    'asset_url' => env('ASSET_URL','https://gestion-nicolas.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
